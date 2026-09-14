@@ -6,7 +6,7 @@ redirect_from:
   - /resume/
 ---
 
-[xuntang@ust.hk](mailto:xuntang@ust.hk) · [xun-tang123.github.io](https://xun-tang123.github.io)
+[xuntang@ust.hk](mailto:xuntang@ust.hk) · [xuntangmath.github.io](https://xuntangmath.github.io)
 
 ## Employment
 

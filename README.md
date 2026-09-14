@@ -2,7 +2,7 @@
 
 Personal academic website for Xun Tang, Assistant Professor in the Department of Mathematics at HKUST. The site uses the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template.
 
-Published at <https://xun-tang123.github.io>.
+Published at <https://xuntangmath.github.io>.
 
 ## Local preview
 
@@ -27,4 +27,4 @@ Edit `_config.yml` for profile details and site-wide settings. Files under `_lay
 
 `files/Xun_Tang_Resume.pdf` is the optional downloadable CV. The editable website CV lives in `_pages/cv.md`.
 
-The GitHub repository must be named `Xun-Tang123.github.io` so GitHub Pages publishes it at the root URL above.
+The GitHub repository must be named `xuntangmath.github.io` so GitHub Pages publishes it at the root URL above.
